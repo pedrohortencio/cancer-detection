@@ -10,8 +10,8 @@ Classificação de tumores a partir de dados tabulares, utilizando o dataset [Br
 
 Ambos os datasets foram explorados em um único momento, comparando os resultados obtidos por duas redes neurais. Os achados foram expostos em um relatório, que pode ser lido abaixo:
 
-<object data="https://github.com/pedrohortencio/cancer-detection/raw/main/Relat%C3%B3rio%20(BreakHis%20e%20Wisconsin).pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/pedrohortencio/cancer-detection/raw/main/Relat%C3%B3rio%20(BreakHis%20e%20Wisconsin).pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/pedrohortencio/cancer-detection/raw/main/Relat%C3%B3rio%20(BreakHis%20e%20Wisconsin).pdf">Download PDF</a>.</p>
+<object data="https://github.com/pedrohortencio/cancer-detection/blob/main/Relat%C3%B3rio%20(BreakHis%20e%20Wisconsin).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/pedrohortencio/cancer-detection/blob/main/Relat%C3%B3rio%20(BreakHis%20e%20Wisconsin).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/pedrohortencio/cancer-detection/blob/main/Relat%C3%B3rio%20(BreakHis%20e%20Wisconsin).pdf">Download PDF</a>.</p>
     </embed>
 </object>
