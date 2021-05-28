@@ -1,6 +1,6 @@
 # Inteligência Artificial Destinada a Detecção de Câncer
 
-# Table of Contents
+## Table of Contents
 
 - [Inteligência Artificial Destinada a Detecção de Câncer](#intelig-ncia-artificial-destinada-a-detec--o-de-c-ncer)
   * [Conjuntos de Dados](#conjuntos-de-dados)
